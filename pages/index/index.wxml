@@ -1,0 +1,13 @@
+
+<map 
+  id='mymap' 
+  style="width: 100%; height: 600px;"
+  longitude='{{log}}'
+  latitude='{{lat}}'
+  controls='{{controls}}'
+  markers='{{markers}}'
+  show-location='true'
+  bindcontroltap='controltap'
+  bindregionchange='regionChange'
+  scale='15'
+></map>
