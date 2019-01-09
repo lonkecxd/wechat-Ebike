@@ -1,6 +1,7 @@
 # WechatProgram_EBike
 微信小程序——共享单车。
-![Screenshot]('/display.jpg')
+
+![](display.jpg)
 
 小程序包含功能：
   微信支付、短信验证
